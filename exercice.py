@@ -3,12 +3,12 @@
 import math
 
 def square_root(number: int) -> float:
-    
+    #
     return math.sqrt (number)
 
 
 def square(number: int) -> int:
-    #
+    #TODO compléter la fonction
     return math.pow(number , 2)
 
 
