@@ -3,7 +3,7 @@
 
 
 def square_root(number: int) -> float:
-    number ** (1/2)
+    su ** (1/2)
     return square_rooted
 
 
