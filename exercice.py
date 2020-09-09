@@ -3,12 +3,12 @@
 
 
 def square_root(number: int) -> float:
-    su ** (1/2)
+    square_rooted ** (1/2)
     return square_rooted
 
 
 def square(number: int) -> int:
-    math.pow (number, 2)
+    math.pow (s, 2)
     return squared
 
 
