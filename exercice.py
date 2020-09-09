@@ -8,8 +8,8 @@ def square_root(number: int) -> float:
 
 
 def square(number: int) -> int:
-    number ** 2
-    return number
+    
+    return math.pow()
 
 
 def main() -> None:
