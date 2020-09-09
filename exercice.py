@@ -3,13 +3,13 @@
 
 
 def square_root(number: int) -> float:
-    square_root ** (1/2)
-    return square_root
+    number ** (1/2)
+    return square_rooted
 
 
 def square(number: int) -> int:
     
-    return square
+    return squared
 
 
 def main() -> None:
